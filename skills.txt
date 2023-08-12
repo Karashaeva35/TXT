@@ -1,0 +1,8 @@
+Skills:
+skill1: terminal;
+skills: git;
+skill[A[C2: git;
+[C[C[C[C[C3[[2: git; [B[D[D[D[D[D[D[D: sql;
+skill4: postman;
+skill5: client-server;
+skill6: mobile test.
