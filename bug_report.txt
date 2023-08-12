@@ -1,1 +1,7 @@
-
+Bug:
+id": PR1,
+summary: код ошибки url 404,
+project: onlineshop.com,
+severity: blocker,
+priority: ASAP,
+status: open.
