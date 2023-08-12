@@ -1,0 +1,4 @@
+Person:
+surname: Karashaeva;
+name: Yuliya;
+age: 34.
